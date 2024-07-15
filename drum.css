@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    background-color: rgb(46, 32, 32);
+}
+h1{
+    font-size: 100px;
+    color: rgb(190, 53, 53);
+}
+.press{
+    margin-top: 70px;
+    margin-bottom: 50px;
+}
+button{
+    margin: 30px;
+    height: 125px;
+    width: 125px;
+    border: 20px;
+    border-radius: 20px;
+    border-color: rgb(131, 65, 65);
+    font-size: 50px;
+}
+footer{
+    margin-top: 150px;
+    color: blueviolet;
+}
+.w{
+    background-image: url("durmImage/tom1.png");
+}
+.a{
+    background-image: url("durmImage/tom2.png");
+}
+.s{
+    background-image: url("durmImage/tom3.png");
+}
+.d{
+    background-image: url("durmImage/tom4.png");
+}
+.j{
+    background-image: url("durmImage/snare.png");
+}
+.k{
+    background-image: url("durmImage/crash.png");
+}
+.l{
+    background-image: url("durmImage/kick.png");
+}
